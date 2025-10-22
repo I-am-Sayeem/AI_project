@@ -41,17 +41,6 @@ Data Structures: Priority Queue, Heap, Deque
 
 Algorithm Base: Graph Traversal and Pathfinding
 
-🧩 Installation
-
-Clone this repository:
-
-git clone https://github.com/your-username/WarehouseRobotPicker.git
-cd WarehouseRobotPicker
-
-
-Run the program:
-
-python main.py
 
 
 📝 Make sure you have Python 3.8+ installed on your system.
